@@ -79,6 +79,8 @@ Create an efficient, accurate, and easy-to-use AI-powered system that reduces ma
 This project was built with [Lovable](https://lovable.dev).
 
 **Live app**: https://crimson-clarity.lovable.app
+**RTP Project**: crimson clarity
+
 
 ## Build with Lovable
 
